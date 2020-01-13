@@ -1,0 +1,43 @@
+{
+  "name": "vmware-cloud-director-ui-components",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "8.2.8",
+    "@angular/common": "8.2.8",
+    "@angular/compiler": "8.2.8",
+    "@angular/core": "8.2.8",
+    "@angular/forms": "8.2.8",
+    "@angular/platform-browser": "8.2.8",
+    "@angular/platform-browser-dynamic": "8.2.8",
+    "@angular/router": "8.2.8",
+    "@clr/angular": "2.2.1",
+    "@clr/icons": "2.2.1",
+    "@clr/ui": "2.2.1",
+    "@vcd/ui-components": "0.0.2",
+    "@webcomponents/custom-elements": "1.0.0",
+    "classlist.js": "1.1.20150312",
+    "core-js": "^3.6.3",
+    "prismjs": "1.17.1",
+    "rxjs": "6.4.0",
+    "tslib": "1.10.0",
+    "web-animations-js": "2.3.2",
+    "zone.js": "0.9.1"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "0.803.9",
+    "@angular-devkit/build-ng-packagr": "0.803.9",
+    "@angular/cli": "8.3.9",
+    "@angular/compiler-cli": "8.2.8",
+    "@angular/language-service": "8.2.8",
+    "@types/jasmine": "3.3.8",
+    "@types/jasminewd2": "2.0.3",
+    "@types/node": "8.9.4",
+    "codelyzer": "5.0.0",
+    "ts-node": "7.0.0",
+    "tsickle": "0.37.1",
+    "tslint": "5.15.0",
+    "tslint-microsoft-contrib": "6.2.0",
+    "typescript": "3.5.3"
+  }
+}
