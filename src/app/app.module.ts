@@ -5,11 +5,12 @@ import { FormsModule } from '@angular/forms';
 
 import { ClarityModule } from '@clr/angular';
 
-import {DataExporterModule} from '@vcd/ui-components'
+import { __EXAMPLE_MODULE} from './__EXAMPLE_MODULE_FILE_IMPORT';
+
 import { AppComponent } from './app.component';
 
 @NgModule({
-  imports: [BrowserModule, BrowserAnimationsModule, ClarityModule, FormsModule, DataExporterModule],
+  imports: [BrowserModule, BrowserAnimationsModule, ClarityModule, FormsModule, __EXAMPLE_MODULE],
   declarations: [AppComponent],
   bootstrap: [AppComponent]
 })
